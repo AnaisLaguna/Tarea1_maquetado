@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+    line-height: 1.5
+    
+
+
+}
+
+}
+
+.flex-container{
+    border: 1px solid white;
+    padding: 20px;
+    display: flex;
+}
+
+.caja1{
+    background-color: white;
+    color: black;
+    font-family: circular,Arial, Helvetica, sans-serif
+    font-size: 
+    font-weight: bold;
+}
