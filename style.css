@@ -2,17 +2,47 @@ body{
     background-color: white;
     line-height: 1.5
     
-
-
 }
 
-}
+
 
 .flex-container{
     border: 1px solid white;
     padding: 20px;
     display: flex;
+    flex-direction:  column;
+    grid-gap: 3px;
+    
+      
 }
+    div ul {
+        list-style-type: none;
+        
+    }
+
+
+    div ul li{
+        display: inline;
+        margin: 30px;
+        
+    }
+
+    div ul li a{
+        text-decoration: none;
+        font-size: 25px;
+        color: black;
+
+    
+    }
+
+    div ul :hover{
+        background-color: gray;
+        color: white;
+    }
+
+
+
+
 
 .caja1{
     background-color: white;
